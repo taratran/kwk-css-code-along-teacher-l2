@@ -1,1 +1,8 @@
 /* add CSS class and element and selectors here */
+<style>
+body {
+  background-color: red;
+  font-size: 150%;
+}
+
+</style>
